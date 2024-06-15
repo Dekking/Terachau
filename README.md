@@ -1,2 +1,3 @@
 "# Terachau" 
-desktop app simulating an online hardware store.
+Desktop app simulating an online hardware store.
+Execute the MainScreen file to run the app.
